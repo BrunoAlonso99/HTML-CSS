@@ -1,0 +1,51 @@
+body {
+    background-image:url(http://menteprimitiva.com/wp-content/uploads/2012/05/html-css.jpg);
+    background-position:center;
+}
+h1 {
+    color: firebrick;
+    text-align: center;
+
+}
+img {
+    height: 200px;
+    width: 400px;
+}
+#thirdDiv {
+    height:600px;
+    width:500px;
+    background-color: palegreen;
+    padding: 50px;
+    border: skyblue;
+    border-style: dashed;
+    border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    
+}
+#spanId {
+    background-color: greenyellow;
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.divClass {
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+h3 {
+    background-color: black;
+    color: yellow;
+}
+a {
+    background-color: white;
+    font-style:italic;
+    font-size: 70px;
+    color:purple ;
+}
